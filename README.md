@@ -6,3 +6,7 @@ Heart disease stands as a prominent cause of morbidity and mortality on a global
 Our journey unfolds by training machine learning models capable of discerning the presence or absence of heart disease based on a comprehensive set of attributes. To achieve this, we draw upon the Cleveland Heart Disease dataset, sourced from the UCI repository. As we traverse this path, each line of code and model developed brings us closer to unraveling the secrets of disease prediction.
 
 Our ultimate goal is to empower healthcare professionals and individuals with data-driven insights, enhancing their ability to make early and accurate predictions regarding heart disease. Through the utilization of machine learning, we aim to contribute to the vital task of improving public health and the well-being of individuals across the world.
+
+
+### Technologies used in this project are
+Machine Learning, Python, XGBoost, Logistic Regression
