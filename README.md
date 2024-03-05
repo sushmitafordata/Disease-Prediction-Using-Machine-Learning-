@@ -10,3 +10,18 @@ Our ultimate goal is to empower healthcare professionals and individuals with da
 
 ### Technologies used in this project are
 Machine Learning, Python, XGBoost, Logistic Regression
+
+### Project completion verification link 
+
+https://hicounselor.com/certificate/verify/OTM3OTMxNjc=
+
+
+
+
+
+
+
+
+
+![Project Completion Certificate](https://github.com/sushmitafordata/Disease-Prediction-Using-Machine-Learning-/assets/135410984/adadf8cb-6050-478d-9393-0d2a0adfa649)
+
